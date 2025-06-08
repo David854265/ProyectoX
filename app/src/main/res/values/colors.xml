@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="borde_boton">#673AB7</color>
+    <color name="color_texto_boton">#454141</color>
 </resources>
