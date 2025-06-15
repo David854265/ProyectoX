@@ -4,4 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="borde_boton">#673AB7</color>
     <color name="color_texto_boton">#454141</color>
+
+    <!-- color pal pinche banner del menu -->
+    <color name="purple_500">#9C27B0</color>
+
+    <!-- color pa el fondo del deste de wero -->
+    <color name="background_pantalla2">#5BCCFF</color>
 </resources>
